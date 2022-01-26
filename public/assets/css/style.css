@@ -1389,6 +1389,7 @@ a:hover {
 }
 .navbar-area .navbar {
   padding: 0;
+  background: aliceblue;
 }
 .navbar-area .nav-container {
   background-color: transparent;

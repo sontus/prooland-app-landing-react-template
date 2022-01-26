@@ -11,7 +11,7 @@ const IntroArea = () => {
                             <div className="thumb">
                                 <img src="assets/img/intro/1.png" alt="img"/>
                             </div>
-                            <h4><a href="about.html">Free Setup</a></h4>
+                            <h4><a href="">Free Setup</a></h4>
                         </div>                  
                     </div>
                     <div className="col-lg-3 col-sm-6">
@@ -19,7 +19,7 @@ const IntroArea = () => {
                             <div className="thumb">
                                 <img src="assets/img/intro/2.png" alt="img"/>
                             </div>
-                            <h4><a href="about.html">Quick Access</a></h4>
+                            <h4><a href="">Quick Access</a></h4>
                         </div>                  
                     </div>
                     <div className="col-lg-3 col-sm-6">
@@ -27,7 +27,7 @@ const IntroArea = () => {
                             <div className="thumb">
                                 <img src="assets/img/intro/3.png" alt="img"/>
                             </div>
-                            <h4><a href="about.html">Manage User</a></h4>
+                            <h4><a href="">Manage User</a></h4>
                         </div>                  
                     </div>
                     <div className="col-lg-3 col-sm-6">
@@ -35,7 +35,7 @@ const IntroArea = () => {
                             <div className="thumb">
                                 <img src="assets/img/intro/4.png" alt="img"/>
                             </div>
-                            <h4><a href="about.html">Daily Updates</a></h4>
+                            <h4><a href="">Daily Updates</a></h4>
                         </div>                  
                     </div>
                 </div>
