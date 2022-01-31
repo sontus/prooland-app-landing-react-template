@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const ScreenshotArea = () => {
     return (
         <>
@@ -14,6 +15,7 @@ const ScreenshotArea = () => {
                         </div>
                         <div className="col-md-12">
                             <div className="screenshot-slider slick-carousel ps-4 pe-4">
+                           
                                 <div className="item">
                                     <div className="screenshot-thumb">
                                         <img src="assets/img/screenshot/01.png" alt="app"/>
@@ -49,6 +51,7 @@ const ScreenshotArea = () => {
                     </div>
                 </div>
             </section>
+            
         </>
     );
 };

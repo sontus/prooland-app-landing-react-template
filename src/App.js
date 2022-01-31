@@ -17,6 +17,8 @@ import Contact from './Components/Pages/Contact/Contact';
 import Header from './Components/Shared/Header/Header';
 import Footer from './Components/Shared/Footer/Footer';
 import Faq from './Components/Pages/Faq/Faq';
+import Carousel from './Components/Carousel';
+
 
 
 
@@ -37,7 +39,9 @@ function App() {
         <Route  path='/contact' element={<Contact/>}></Route>
       </Routes>
       <Footer></Footer>
+      <Carousel></Carousel>
     </Router>
+   
   );
 }
 
